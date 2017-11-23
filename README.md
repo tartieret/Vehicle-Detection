@@ -4,7 +4,7 @@ In this project, I implemented a pipeline to detect vehicles in images. The foll
 
 1. Extract features using Histogram of Oriented Gradients (HOG) on a labeled training set of images 
 
-2. Train a classifier Linear SVM classifier
+2. Train a Linear Support Vector Machine classifier
 
 3. Implement a sliding-window technique and use the trained classifier to search for vehicles in images.
 
